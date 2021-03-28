@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+h1 {
+    font-size: 5.625rem;
+    color: #66bfbf; 
+    margin-top: 0;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    padding-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30pxr;
+    color: #66bfbf;
+}
+p{
+    line-height: 2;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.mid-one{
+    width: 30%;
+    margin: 0 auto;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px 0;
+}
+.skills{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.skill-row{
+    margin-top: 80px;
+}
+.odd{
+    width: 28%;
+    float: left;
+
+}
+.even{
+    margin-top: 10px;
+    width: 25%;
+    float: right;
+}
+div{
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-cloud{ 
+    position: absolute;
+}
+.top-cloud{
+   margin: 0 37% 0 63%;
+}
+hr{
+   border: dotted #63bdbd 7px;
+   border-bottom: none;
+   width: 50px;
+   margin: 100px auto;
+}
+a{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: .75rem;
+    padding-top: 20px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -o-linear-gradient(top, #11cdd4, #1199e);
+    background-image: linear-gradient(to bottom, #11cdd4, #1199e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff ;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb ;
+    background-image: -webkit-linear-gradient(top, #30e3cb , #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb , #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb , #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb , #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb , #2bc4ad);
+    text-decoration: none;
+  }
